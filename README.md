@@ -1,0 +1,1 @@
+This repository contains a twine story that takes place in 1509, in Tudor England. It follows the life of King Henry VIII and you, as the player, are able to navigate through the life of Henry VIII. You can choose between learning about his interests, like sports, art, and music, or about his several wives. 
